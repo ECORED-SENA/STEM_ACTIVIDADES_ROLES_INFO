@@ -23,7 +23,7 @@ section
                 p.banner-principal__datos__item__texto 48 Horas
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Duración en semanas: 
-                p.banner-principal__datos__item__texto 4 Semanas
+                p.banner-principal__datos__item__texto Cuatro semanas
               li.mb-3.banner-principal__datos__item
                 p.h6.mb-0.me-3.banner-principal__datos__item__titulo Modalidad: 
                 p.banner-principal__datos__item__texto virtual
@@ -40,9 +40,6 @@ section
     p Bienvenido a este ambiente virtual de aprendizaje que surge en el marco de la educación STEM enfocada desde la Ciencia, la Tecnología, la Ingeniería y las Matemáticas. Debido a que esta involucra las formas de enseñar y aprender convoca a los profesores a su reflexión y aplicación en su contexto académico; pero ¿cómo implementar la educación STEM desde el rol del profesor?, es una interesante pregunta que tratará de orientar el presente curso.
     
     p.mt-3 Para iniciar, observe el video que se presenta como punto de partida.
-
-    .video.mt-4
-      | <iframe data-v-1f9e4816="" width="560" height="315" src="https://www.youtube.com/embed/2oNhGHrX9fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
   .container.tarjeta.tarjeta__template--azul-claro.p-4.p-md-5.mb-5
     .titulo__template--a.mb-4
